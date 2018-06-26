@@ -1,0 +1,47 @@
+文件夹 PATH 列表
+卷序列号为 0009-3229
+FlyBird:
+│  game.js
+│  game.json
+│  index.html
+│  list.txt
+│  project.config.json
+│  
+├─.idea
+│  │  misc.xml
+│  │  modules.xml
+│  │  webStromWorkSpace.iml
+│  │  workspace.xml
+│  │  
+│  └─inspectionProfiles
+├─js
+│  │  Director.js
+│  │  Main.js
+│  │  
+│  ├─base
+│  │      DataStore.js
+│  │      Resource.js
+│  │      ResourceLoader.js
+│  │      Sprite.js
+│  │      
+│  ├─player
+│  │      Birds.js
+│  │      Score.js
+│  │      StartButton.js
+│  │      
+│  └─runtime
+│          BackGround.js
+│          DownPencil.js
+│          Land.js
+│          Pencil.js
+│          UpPencil.js
+│          
+└─res
+        background.png
+        bgm.mp3
+        birds.png
+        land.png
+        pie_down.png
+        pie_up.png
+        start_button.png
+        
